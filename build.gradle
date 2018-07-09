@@ -1,0 +1,20 @@
+buildscript {
+	repositories {
+		jcenter()
+	}
+}
+
+apply plugin: 'java-library'
+apply plugin: 'eclipse'
+
+repositories {
+	maven {
+		url 'https://dl.bintray.com/gasrios/maven'
+	}
+}
+
+dependencies {
+	compile 'com.github.gasrios.raw:raw:+'
+}
+
+jar.baseName = 'raw-examples'
