@@ -12,8 +12,8 @@
 
 package com.github.gasrios.raw.examples;
 
-import com.github.gasrios.raw.Editor;
-import com.github.gasrios.raw.Library;
+import com.github.gasrios.raw.editor.Editor;
+import com.github.gasrios.raw.editor.Library;
 import com.github.gasrios.raw.formats.ImageLSH;
 
 /*

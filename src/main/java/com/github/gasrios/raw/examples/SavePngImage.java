@@ -15,7 +15,7 @@ package com.github.gasrios.raw.examples;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-import com.github.gasrios.raw.Library;
+import com.github.gasrios.raw.editor.Library;
 import com.github.gasrios.raw.formats.ImageCIEXYZ;
 import com.github.gasrios.raw.lang.TiffProcessorException;
 import com.github.gasrios.raw.processor.DngProcessor;
