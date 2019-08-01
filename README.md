@@ -1,6 +1,6 @@
 # raw-examples
 
-Three classes that show how to use [raw](https://github.com/gasrios/raw). You will need [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/using/adobe-dng-converter.html) to convert your raw images to DNG, to run all examples but `com.github.gasrios.raw.examples.ReadMetadata`.
+Three classes that show how to use [raw](https://github.com/raw-tiff/raw). You will need [Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/using/adobe-dng-converter.html) to convert your raw images to DNG, to run all examples but `com.github.gasrios.raw.examples.ReadMetadata`.
 
 Directory `sh` has shell scripts to run the tests.
 
